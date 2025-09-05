@@ -1,0 +1,26 @@
+{
+	"contentrating" : "Everyone",
+	"description" : "Steam profile Background \"Nebula Blue\" from Seen as wallpaper",
+	"file" : "Seen-Nebula-Blue.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.01568627450980392 0.403921568627451 0.6666666666666666"
+			}
+		}
+	},
+	"preview" : "preview.jpg",
+	"tags" : [ "Game" ],
+	"title" : "Seen Nebula Blue Wallpaper",
+	"type" : "video",
+	"version" : 1,
+	"visibility" : "public",
+	"workshopid" : "2358765993",
+	"workshopurl" : "steam://url/CommunityFilePage/2358765993"
+}
